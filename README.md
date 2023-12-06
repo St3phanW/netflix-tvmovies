@@ -8,10 +8,14 @@ In this project, I am tasked with answering a few leading questions for Netflix.
 
 We have the following columns:
 
-title        :  The name of a TV show or movie. (Text)
-type         :  Indicates whether an entry is a TV show or a movie. (Text)
-description  :  A brief summary or description of a TV show or movie. (Text)
-release_year :	The year in which a TV show or movie was released. (Numeric)
+title              :  The name of a TV show or movie. (Text)
+type               :  Indicates whether an entry is a TV show or a movie. (Text)
+description        :  A brief summary or description of a TV show or movie. (Text)
+release_year       :	The year in which a TV show or movie was released. (Numeric)
+age_certification  :  The age certification rating for a TV show or movie. (Text)
+runtime            :  The length of an episode for TV shows or duration of a movie. (Text)
+imdb_score         :  The score given by users on IMDB for a particular title. (Numeric)
+imdb_votes         :  The number of votes received by each title on IMDB. (Numeric)
 
 
 
